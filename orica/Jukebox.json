@@ -1,0 +1,114 @@
+﻿{
+  "songs": [
+    {
+      "song": "When I Come Around",
+      "band": "Green Day",
+      "time": "3:25",
+      "owner": "Johnny"
+    },
+    {
+      "song": "Otherside",
+      "band": "Red Hot Chili Peppers",
+      "time": "4:23",
+      "owner": "Johnny"
+    },
+    {
+      "song": "Good",
+      "band": "Better Than Ezra",
+      "time": "3:14",
+      "owner": "Johnny"
+    },
+    {
+      "song": "Last Kiss",
+      "band": "Pearl Jam",
+      "time": "3:55",
+      "owner": "Johnny"
+    },
+    {
+      "song": "Santa Monica",
+      "band": "Everclear",
+      "time": "4:12",
+      "owner": "Johnny"
+    },
+    {
+      "song": "Out of My Head",
+      "band": "Fastball",
+      "time": "4:15",
+      "owner": "Clint"
+    },
+    {
+      "song": "Cumbersome",
+      "band": "Seven Mary Three",
+      "time": "3:10",
+      "owner": "Clint"
+    },
+    {
+      "song": "Low",
+      "band": "Cracker",
+      "time": "4:30",
+      "owner": "Clint"
+    },
+    {
+      "song": "Fluorescent Adolescent",
+      "band": "Arctic Monkeys",
+      "time": "5:00",
+      "owner": "Clint"
+    },
+    {
+      "song": "Steady as She Goes",
+      "band": "The Raconteurs",
+      "time": "3:45",
+      "owner": "Clint"
+    },
+    {
+      "song": "Last Nite",
+      "band": "The Strokes",
+      "time": "4:25",
+      "owner": "Lisa"
+    },
+    {
+      "song": "Lydia",
+      "band": "Highly Suspect",
+      "time": "4:44",
+      "owner": "Lisa"
+    },
+    {
+      "song": "Big Me",
+      "band": "Foo Fighters",
+      "time": "2:20",
+      "owner": "Lisa"
+    },
+    {
+      "song": "Bleed American",
+      "band": "Jimmy Eat World",
+      "time": "3:32",
+      "owner": "Lisa"
+    },
+    {
+      "song": "Creep",
+      "band": "Stone Temple Pilots",
+      "time": "5:15",
+      "owner": "Lisa"
+    },
+    {
+      "song": "Come As You Are",
+      "band": "Nirvana",
+      "time": "5:03",
+      "owner": "Lisa"
+    }
+  ],
+  "availability": [
+    {
+      "person": "Johnny",
+      "sections": [ 1 ]
+    },
+    {
+      "person": "Clint",
+      "sections": [ 1, 2 ]
+    },
+    {
+      "person": "Lisa",
+      "sections": [ 1, 2 ]
+    }
+  ]
+}
